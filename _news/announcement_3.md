@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2021-09-15 07:59:00-0400
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+If you're attending GHC 2021 make sure to checkout our talk, "Enabling Cooperative Behaviors in Multiplayer Games Using Deep Reinforcement Learning".
