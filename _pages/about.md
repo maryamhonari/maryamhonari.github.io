@@ -8,7 +8,7 @@ profile:
   align: right
   image: photoMaryam.jpeg
   address: >
-    marmarhonari [at) g|\/|ail dot com
+    maryamjhonari [at) g|\/|ail dot com
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
